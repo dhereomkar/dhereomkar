@@ -1,6 +1,6 @@
-<!-- ===================== HEADER ===================== --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a66c2,100:00d4ff&height=220&section=header&text=Omkar%20Dhere&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=60&descColor=e6edf3" alt="Omkar Dhere - Aspiring Cloud and DevOps Engineer" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I'm+Omkar+Dhere+%F0%9F%91%8B;Aspiring+Cloud+Engineer+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Python+Developer+%7C+AI+%26+ML+Enthusiast" alt="Typing animation" /> </a> <br/>
+<!-- ===================== HEADER ===================== --> <div align="center"> <img width="100%" src="https://raw.githubusercontent.com/dhereomkar/dhereomkar/main/assets/header.svg" alt="Omkar Dhere - Aspiring Cloud and DevOps Engineer" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I'm+Omkar+Dhere+%F0%9F%91%8B;Aspiring+Cloud+Engineer+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Python+Developer+%7C+AI+%26+ML+Enthusiast" alt="Typing animation" /> </a> <br/>
 
-<a href="https://www.linkedin.com/in/OMKAR DHERE"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a> <a href="https://github.com/dhereomkar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a> <a href="https://github.com/dhereomkar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 👨‍💻 About Me
@@ -49,7 +49,7 @@ Project	Description	Tech Stack
 
 </div>
 📊 GitHub Statistics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=dhereomkar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=0a66c2&text_color=c9d1d9&text_bold=false" alt="GitHub stats" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhereomkar&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" alt="Top languages" />
+<div align="center"> <img height="190" src="https://raw.githubusercontent.com/dhereomkar/dhereomkar/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" /> <img height="190" src="https://raw.githubusercontent.com/dhereomkar/dhereomkar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
 
 <br/><br/>
 
@@ -64,7 +64,7 @@ I'm actively looking for Cloud Engineering and DevOps internships and entry-leve
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Send_an_Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Send an email" /></a>
 
-</div> <!-- ===================== FOOTER ===================== --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a66c2,100:0d1117&height=120&section=footer&animation=twinkling&reversal=true" alt="Footer" />
+</div> <!-- ===================== FOOTER ===================== --> <div align="center"> <img width="100%" src="https://raw.githubusercontent.com/dhereomkar/dhereomkar/main/assets/footer.svg" alt="Footer" />
 
 <sub>⭐ Thanks for visiting my profile. Always learning, always building.</sub>
 
