@@ -65,10 +65,8 @@ I learn by building: containerizing apps with Docker, automating pipelines with 
 | 🛡️ [**MailShield AI**](https://github.com/dhereomkar/MailShield-AI-Spam-Ham-Detector) | Spam and ham email detector using NLP and machine learning, served through a Flask web app. | `Python` `Flask` `Scikit-learn` `NLP` |
 | 🐳 [**Flask Docker App**](https://github.com/dhereomkar/flask-docker-app) | Flask application containerized with Docker and automated with a GitHub Actions CI pipeline. | `Python` `Flask` `Docker` `GitHub Actions` |
 | ☁️ [**AWS Three-Tier Student App**](https://github.com/dhereomkar/aws-three-tier-student-app) | Student application designed around a three-tier architecture on AWS cloud infrastructure. | `AWS` `Python` `Cloud Infrastructure` |
-| ⚙️ [**DevOps Project**](https://github.com/dhereomkar/devops-project) | Hands-on DevOps project. *(Add a one-line summary of what it automates or deploys.)* | `DevOps` *(add tools used)* |
+| ⚙️ [**Demo DevOps Project**](https://github.com/dhereomkar/devops-project) | Hands-on DevOps project. *(Add a one-line summary of what it automates or deploys.)* | `DevOps` *(add tools used)* |
 | 📄 [**Resume Parser Builder**](https://github.com/dhereomkar/resume-parser-builder) | Resume parsing and building project. *(Add a one-line summary of its features.)* | *(add tech stack)* |
-| 🆘 **SafeSphere** | Safety-focused application with SOS functionality, volunteer missions, alerts, and safe-zone information. | *(add tech stack)* · *(add repo link)* |
-
 <div align="center">
 
 <a href="https://github.com/dhereomkar?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-00d4ff?style=for-the-badge&logo=github&logoColor=0d1117" alt="View all repositories" /></a>
