@@ -75,12 +75,7 @@ I learn by building: containerizing apps with Docker, automating pipelines with 
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="190" src="https://raw.githubusercontent.com/dhereomkar/dhereomkar/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img height="190" src="https://raw.githubusercontent.com/dhereomkar/dhereomkar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
 
 <br/><br/>
 
