@@ -1,123 +1,71 @@
-<div align="center">
+<!-- ===================== HEADER ===================== --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a66c2,100:00d4ff&height=220&section=header&text=Omkar%20Dhere&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=60&descColor=e6edf3" alt="Omkar Dhere - Aspiring Cloud and DevOps Engineer" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I'm+Omkar+Dhere+%F0%9F%91%8B;Aspiring+Cloud+Engineer+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Python+Developer+%7C+AI+%26+ML+Enthusiast" alt="Typing animation" /> </a> <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=OMKAR%20DHERE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Final-Year+IT+Engineering+Student;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Docker+%7C+GitHub+Actions;Building+and+Deploying+Real-World+Projects" alt="Typing animation"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a> <a href="https://github.com/dhereomkar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
+👨‍💻 About Me
 
----
+I'm a final-year B.E. Information Technology student at Trinity College of Engineering and Research, Pune (SPPU), building a career in Cloud Engineering and DevOps.
 
-## 👨‍💻 About Me
+I learn by building: containerizing apps with Docker, automating pipelines with GitHub Actions, deploying on AWS, and applying Python and machine learning to practical problems.
 
-I'm a final-year Information Technology Engineering student at Trinity College of Engineering and Research, Pune.
-
-I enjoy building applications, automating workflows, and exploring cloud technologies.
-
-* ☁️ Interested in AWS, Cloud Computing, and DevOps.
-* 🐳 Working with Docker and CI/CD pipelines.
-* 🐍 Building applications using Python and Flask.
-* 🤖 Exploring AI and Machine Learning through practical projects.
-* 🎯 Currently focused on improving my cloud deployment , automation skills & Devops.
-
----
-
-## 🛠️ Tech Stack
-
+🎯 Goal: Cloud Engineer / DevOps Engineer
+☁️ Focus: AWS, CI/CD, Docker, Linux and Networking
+🤖 Also exploring: AI and Machine Learning with Python
+💼 Looking for: Cloud / DevOps internships and entry-level roles
+🛠️ Tech Stack
 <div align="center">
 
-### Cloud & DevOps
+☁️ Cloud  ·  AWS (EC2, S3, IAM, VPC, Lambda, CloudWatch)
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux,bash" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" />
 
-### Programming & Development
+⚙️ DevOps  ·  Docker, Git, GitHub Actions, Linux, Bash, CI/CD
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash&theme=dark" alt="DevOps tools" />
 
-### Tools
+💻 Programming  ·  Python, Java, JavaScript, SQL
 
-<img src="https://skillicons.dev/icons?i=vscode,github" />
+<img src="https://skillicons.dev/icons?i=py,java,js&theme=dark" alt="Programming languages" /> <img src="https://img.shields.io/badge/SQL-0a66c2?style=for-the-badge" alt="SQL" />
+
+🌐 Development  ·  Flask, Django, HTML, CSS, REST APIs
+
+<img src="https://skillicons.dev/icons?i=flask,django,html,css&theme=dark" alt="Web development" />
+
+🤖 AI / ML  ·  Scikit-learn, TensorFlow, NLP fundamentals
+
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" alt="AI and ML" /> </div>
+🚀 Featured Projects
+Project	Description	Tech Stack
+🛡️ MailShield AI	Spam and ham email detector using NLP and machine learning, served through a Flask web app.	Python Flask Scikit-learn NLP
+🐳 Flask Docker App	Flask application containerized with Docker and automated with a GitHub Actions CI pipeline.	Python Flask Docker GitHub Actions
+☁️ AWS Three-Tier Student App	Student application designed around a three-tier architecture on AWS cloud infrastructure.	AWS Python Cloud Infrastructure
+⚙️ DevOps Project	Hands-on DevOps project. (Add a one-line summary of what it automates or deploys.)	DevOps (add tools used)
+📄 Resume Parser Builder	Resume parsing and building project. (Add a one-line summary of its features.)	(add tech stack)
+🆘 SafeSphere	Safety-focused application with SOS functionality, volunteer missions, alerts, and safe-zone information.	(add tech stack) · (add repo link)
+<div align="center">
+
+<a href="https://github.com/dhereomkar?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-00d4ff?style=for-the-badge&logo=github&logoColor=0d1117" alt="View all repositories" /></a>
 
 </div>
+📊 GitHub Statistics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=dhereomkar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=0a66c2&text_color=c9d1d9&text_bold=false" alt="GitHub stats" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhereomkar&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" alt="Top languages" />
 
----
+<br/><br/>
 
-## 🚀 Featured Projects
+<img src="https://streak-stats.demolab.com?user=dhereomkar&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=0a66c2&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Contribution streak" /> </div>
+🐍 Contribution Snake
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhereomkar/dhereomkar/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhereomkar/dhereomkar/output/github-snake.svg" /> <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dhereomkar/dhereomkar/output/github-snake-dark.svg" /> </picture> </div>
+📫 Let's Connect
 
-### 📧 MailShield AI — Spam & Ham Detector
-
-A Python-based application that classifies messages as spam or legitimate using NLP preprocessing and machine learning.
-
-**Technologies:** Python, Flask, Scikit-learn, NLTK
-
-[View Repository](https://github.com/dhereomkar/MailShield-AI-Spam-Ham-Detector)
-
-### 🐳 Flask Docker App
-
-A containerized Flask application featuring a health-check endpoint and an automated CI/CD pipeline.
-
-**Technologies:** Python, Flask, Docker, GitHub Actions
-
-[View Repository](https://github.com/dhereomkar/flask-docker-app)
-
-### ☁️ AWS Three-Tier Student Application
-
-A cloud deployment project demonstrating AWS infrastructure and application deployment concepts.
-
-**Technologies:** AWS, Python, Docker
-
-[View Repository](https://github.com/dhereomkar/aws-three-tier-student-app)
-
-
-
-## 📊 GitHub Statistics
+I'm actively looking for Cloud Engineering and DevOps internships and entry-level opportunities. Feel free to reach out.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhereomkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Send_an_Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Send an email" /></a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhereomkar&layout=compact&theme=tokyonight&hide_border=true" />
+</div> <!-- ===================== FOOTER ===================== --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a66c2,100:0d1117&height=120&section=footer&animation=twinkling&reversal=true" alt="Footer" />
 
-<img src="https://streak-stats.demolab.com?user=dhereomkar&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dhereomkar/dhereomkar/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/omkar-dhere/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:omkardhere2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/dhereomkar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-*Learning continuously. Building consistently. Improving every day.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=100&section=footer" width="100%"/>
+<sub>⭐ Thanks for visiting my profile. Always learning, always building.</sub>
 
 </div>
