@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/omkar-dhere"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a>
+<a href="mailto:omkardhere2005@gmail.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a>
 <a href="https://github.com/dhereomkar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
@@ -106,11 +106,11 @@ I learn by building: containerizing apps with Docker, automating pipelines with 
 
 ## 📫 Let's Connect
 
-I'm actively looking for **Cloud Engineering and DevOps internships and entry-level opportunities**. Feel free to reach out.
+I'm actively looking for **Cloud Engineering and DevOps entry-level opportunities**. Feel free to reach out.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/omkar-dhere"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Send_an_Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Send an email" /></a>
 
 </div>
